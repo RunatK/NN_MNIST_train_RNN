@@ -1,2 +1,2 @@
 # NN_MNIST_train_RNN
-My third neura network made as part of the Samsung course
+My third neural network made as part of the Samsung course
